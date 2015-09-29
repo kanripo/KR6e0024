@@ -1,17 +1,17 @@
 #-*- mode: org; -*-
-#+DATE: 2015-09-28 22:55:38.205797
+#+DATE: 2015-09-28 22:55:38.911112
 #+TITLE: 略釋新華嚴經修行次第決疑論
 #+PROPERTY: CBETA_ID T36n1741
 #+PROPERTY: ID KR6e0024
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1741
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 
 <pb:KR6e0024_T_000-1011c>¶
 
-[[file:KR6e0024_001.txt::001-1011c3][華嚴經決疑論序]]
-[[file:KR6e0024_003.txt::003-1030c21][十行位]]
-[[file:KR6e0024_003.txt::1035c21][十迴向]]
+[[file:KR6e0024_001.txt::001-1011c4][華嚴經決疑論序¶]]
+[[file:KR6e0024_003.txt::003-1030c22][十行位¶]]
+[[file:KR6e0024_003.txt::1035c22][十迴向¶]]
 [[file:KR6e0024_004.txt::004-1040b23][十地位]]
-[[file:KR6e0024_004.txt::1048c26][決疑論後記]]
+[[file:KR6e0024_004.txt::1048c27][決疑論後記¶]]
