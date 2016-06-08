@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:38.350614
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:12
 #+TITLE: 略釋新華嚴經修行次第決疑論
 #+PROPERTY: CBETA_ID T36n1741
 #+PROPERTY: ID KR6e0024
@@ -17,7 +17,7 @@
 ¶
 大唐北京李通玄撰¶
 
-十地位
+* 十地位
 :PROPERTIES:
 :head: 十地位
 :END:
@@ -800,7 +800,7 @@
 ¶
 ¶
 
-決疑論後記
+* 決疑論後記
 :PROPERTIES:
 :head: 決疑論後記
 :END:
