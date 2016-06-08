@@ -1,22 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:38.229029
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:12
 #+TITLE: 略釋新華嚴經修行次第決疑論
 #+PROPERTY: CBETA_ID T36n1741
 #+PROPERTY: ID KR6e0024
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1741
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0024_T_001-1011c> 
 #+PROPERTY: JUAN 1
 ¶
-No.1741[cf.No.279]¶
+No. 1741 [cf. No. 279]¶
 
-華嚴經決疑論序
-:PROPERTIES:
-:head: 華嚴經決疑論序
-:END:
-¶
+* 華嚴經決疑論序¶
 ¶
 東方山逝多林寺比丘照明撰¶
 
@@ -44,8 +40,7 @@ No.1741[cf.No.279]¶
 月八日述。
 <pb:KR6e0024_T_001-1012a>¶
 ¶
-
- 一之上略釋新華嚴經修行次第決疑論¶
+略釋新華嚴經修行次第決疑論¶
 卷一之上¶
 ¶
 大唐北京李通玄撰¶
@@ -429,8 +424,7 @@ No.1741[cf.No.279]¶
 略釋新華嚴經修行次第決疑論卷一之上¶
 ¶
 ¶
-
- 一之下略釋新華嚴經修行次第決疑論¶
+略釋新華嚴經修行次第決疑論¶
 卷一之下¶
 ¶
 大唐北京李通玄撰¶

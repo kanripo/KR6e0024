@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:38.275675
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:12
 #+TITLE: 略釋新華嚴經修行次第決疑論
 #+PROPERTY: CBETA_ID T36n1741
 #+PROPERTY: ID KR6e0024
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1741
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0024_T_002-1021a> 
 #+PROPERTY: JUAN 2
 ¶
-
- 二之上略釋新華嚴經修行次第決疑論¶
+略釋新華嚴經修行次第決疑論¶
 卷二之上¶
 ¶
 大唐北京李通玄撰¶
@@ -472,8 +471,7 @@
 略釋新華嚴經修行次第決疑論卷二之上¶
 ¶
 ¶
-
- 二之下略釋新華嚴經修行次第決疑論¶
+略釋新華嚴經修行次第決疑論¶
 卷二之下¶
 ¶
 大唐北京李通玄撰¶
