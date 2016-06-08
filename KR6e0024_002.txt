@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:38.621273
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:12
 #+TITLE: 略釋新華嚴經修行次第決疑論
 #+PROPERTY: CBETA_ID T36n1741
 #+PROPERTY: ID KR6e0024
